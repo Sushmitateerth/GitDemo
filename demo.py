@@ -11,3 +11,6 @@ def multiply(a,b):
 def divide(a,b):
     # Divide two number
     return a / b
+
+def modulo(a,b):
+    return a % b
